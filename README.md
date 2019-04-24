@@ -2,7 +2,7 @@ Source Code for Data Structures in c++ For NoobCoder.com
 
 Video Tutorials
 
-LinkedList
+Singly Linked List & Doubly Linked List
 
 https://www.youtube.com/playlist?list=PLvTjg4siRgU02UgV08owYouXQSZO1a5W3
 
